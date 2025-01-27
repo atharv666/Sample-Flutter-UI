@@ -1,7 +1,7 @@
-# online_bag_shop
+Sample-Flutter-UI
 
 A new Flutter project.
-This is my first flutter project - a minimalistic E-commerce App selling products for women. I have built this project to solidify my base concepts in dart and flutter. 
+This is my first flutter project - User Interface for a minimalistic E-commerce App selling products for women. I have built this project to solidify my base concepts in dart and flutter. 
 
 ## Getting Started
 
