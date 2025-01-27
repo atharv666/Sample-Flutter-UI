@@ -1,6 +1,7 @@
 # online_bag_shop
 
 A new Flutter project.
+This is my first flutter project - a minimalistic E-commerce App selling products for women. I have built this project to solidify my base concepts in dart and flutter. 
 
 ## Getting Started
 
